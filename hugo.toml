@@ -1,4 +1,4 @@
-baseURL = 'https://getmoneyism.org'
-languageCode = 'en-us'
+baseURL = 'https://getmoneyism.org/'
+languageCode = 'us'
 title = 'Get-Moneyism, a practical political philosophy for daily life'
 theme = 'blowfish'
