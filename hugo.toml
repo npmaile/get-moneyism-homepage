@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Get-Moneyism, a practical political philosophy for daily life'
+theme = 'blowfish'
