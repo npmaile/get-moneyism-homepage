@@ -3,4 +3,4 @@ description = "Get-Moneyism, a new political philosophy based on self-improvemen
 colorScheme = "blowfish"
 [homepage]
 layout = "hero"
-cardView = true
+showRecent = true
