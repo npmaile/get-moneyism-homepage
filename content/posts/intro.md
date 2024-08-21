@@ -1,5 +1,6 @@
 +++
 title = 'Get-Moneyism, a "novel" Political Philosophy for Everyday Life'
+description = "An introduction to the Get-Moneyist philosophy"
 date = 2024-08-19T17:48:34-04:00
 draft = false
 +++

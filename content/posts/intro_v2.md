@@ -1,11 +1,9 @@
 +++
 title = 'Get-Moneyism, a "novel" Political Philosophy for Daily Life (version 2)'
+description = "An introduction to the Get-Moneyist philosophy"
 date = 2024-08-19T19:59:42-04:00
 draft = false
 +++
-
-# Get-Moneyism, A political philosophy for daily life
-
 ## background
 My political life started relatively early (as is increasingly common in this day and age) with my father teaching me the conservative ways.
 "The democrats are destroying the country" he would say.
