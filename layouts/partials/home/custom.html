@@ -1,0 +1,32 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<article class="max-w-full prose dark:prose-invert">
+    <div class="relative">
+        <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
+        <div class="mx-auto max-w-7xl p-0">
+            <div class="relative shadow-xl sm:overflow-hidden rounded-2xl">
+                <div class="absolute inset-0">
+                    <div
+                        class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply">
+                    </div>
+                </div>
+                <div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8 flex flex-col items-center justify-center ">
+                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
+                        Get-Moneyism
+                    </h1>
+                    <div class="mt-3 mb-10 text-2xl">
+                    </div>
+                    <section class="prose prose-invert">
+			    <li>You have power over your own life</li>
+			    <li>Your bank balance is more important than your political views</li>
+			    <li>Your health is more important than your political views</li>
+			    <li>Your relationships are more important than your political views</li>
+			    <li>Your energy should be spent where you have impact</li>
+		    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<section>
+	{{ partial "recent-articles/main.html" . }}
+</section>
